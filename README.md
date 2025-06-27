@@ -19,3 +19,5 @@ The NST model defines two loss functions: content loss and style loss. Content l
 Today, Neural Style Transfer finds applications in various domains, including digital art creation, photography, mobile app development (like Prisma), film production, game development, and even live camera filters. Despite its power, NST does have limitations. It often requires significant computational resources, can sometimes overly stylize or distort key content features, and is typically constrained to predefined styles unless retrained. Nonetheless, NST continues to evolve with techniques like multi-style models, style interpolation, and region-specific styling, offering users increasing flexibility and creative control. In essence, Neural Style Transfer represents a unique intersection of artificial intelligence and art, demonstrating how machines can not only understand visual information but also creatively manipulate it to produce something aesthetically novel and inspiring.
 
 output:
+
+![Image](https://github.com/user-attachments/assets/a2215dc4-482d-4f0f-8d16-ef98ae88287a)
